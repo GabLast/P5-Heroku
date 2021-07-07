@@ -19,7 +19,7 @@ public class DBEntityManager<T> {
             if(Main.getModoConexion().equalsIgnoreCase("Heroku")){
                 emf = getConfiguracionBaseDatosHeroku();
             } else {
-                emf = Persistence.createEntityManagerFactory("CarritoCompras");
+                emf = Persistence.createEntityManagerFactory("practica6http");
             }
         }
         this.claseEntidad = claseEntidad;

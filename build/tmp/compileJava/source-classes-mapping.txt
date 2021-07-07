@@ -13,14 +13,12 @@ edu/pucmm/eict/Models/Usuario.java
  edu.pucmm.eict.Models.Usuario
 edu/pucmm/eict/Controllers/UserController.java
  edu.pucmm.eict.Controllers.UserController
-edu/pucmm/eict/Database/DBConnection.java
- edu.pucmm.eict.Database.DBConnection
+edu/pucmm/eict/Models/CarritoCompras.java
+ edu.pucmm.eict.Models.CarritoCompras
 edu/pucmm/eict/Services/StoreService.java
  edu.pucmm.eict.Services.StoreService
 edu/pucmm/eict/Models/Comentario.java
  edu.pucmm.eict.Models.Comentario
-edu/pucmm/eict/Models/CarritoCompras.java
- edu.pucmm.eict.Models.CarritoCompras
 edu/pucmm/eict/Controllers/StoreController.java
  edu.pucmm.eict.Controllers.StoreController
 edu/pucmm/eict/Database/DBEntityManager.java
@@ -37,6 +35,8 @@ edu/pucmm/eict/Database/DBConfig.java
  edu.pucmm.eict.Database.DBConfig
 edu/pucmm/eict/Services/VentaService.java
  edu.pucmm.eict.Services.VentaService
+edu/pucmm/eict/Database/DBConnection.java
+ edu.pucmm.eict.Database.DBConnection
 edu/pucmm/eict/Services/UserService.java
  edu.pucmm.eict.Services.UserService
 edu/pucmm/eict/Services/FotoProduService.java

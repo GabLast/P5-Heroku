@@ -10,7 +10,7 @@ import java.sql.SQLException;
 public class DBConnection {
 
     private static DBConnection instancia;
-    private String URL = "jdbc:h2:tcp://localhost/~/practica3Gabriel"; //Modo Server
+    private String URL = "jdbc:h2:tcp://localhost/~/practica6http"; //Modo Server
 
 
     private DBConnection(){
